@@ -18,10 +18,10 @@ Este proyecto fue realizado en Node.js usando el framework Angular
 ***
 Lo primero que realizamos fue la descarga del framework y luego creamos el proyecto.
 Luego de que finalizo la descarga de nuestro proyecto, iniciamos a codificar nuesro front-end.
-En nuestro app.component.html creamos un menu dinamico:
+En nuestro app.component.html enlazamos un menu dinamico:
 ![image](https://github.com/200ximena/TALLER_3_NODE/assets/128264476/1e814620-a03f-4139-b3c3-311f69a64374)
 ***
-En este, pusimos varias url que contenian en nuestro array en el archivo app.component.ts:
+En este, pusimos la url que esta en nuestro array en el archivo app.component.ts:
 ***
 ![image](https://github.com/200ximena/TALLER_3_NODE/assets/128264476/e72302c8-47b8-4e33-b8b0-7d494213f1bf)
 ***
